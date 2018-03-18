@@ -1,6 +1,6 @@
 # convert the format of the [caltech pedestrian dataset](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians) to the format that [yolo](https://pjreddie.com/darknet/yolo) uses
 
-This repo is a mix of
+This repo is adapted from
 - https://github.com/mitmul/caltech-pedestrian-dataset-converter
 - https://pjreddie.com/media/files/voc_label.py
 
